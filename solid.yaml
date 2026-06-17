@@ -1,0 +1,6 @@
+SOLID:
+  block1: 'Нарушение OCP Принцип открытости/закрытости (Open/Closed Principle)'
+  block2: 'Нарушение ISP Принцип разделения интерфейса (Interface Segregation Principle)'
+  block3: 'Нарушение SRP Принцип единственной ответственности (Single Responsibility Principle)'
+  block4: 'Нарушение DIP Принцип инверсии зависимостей (Dependency Inversion Principle)'
+  block5: 'Нарушение LSP Принцип подстановки Лисков (Liskov Substitution Principle)'
